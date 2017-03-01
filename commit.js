@@ -10,6 +10,7 @@ $(document).ready(function () {
 
     if (!window.HTMLPictureElement) {
         loadJS("/scripts/lazysizes/respimg/ls.respimg.min.js");
+        // hello its me
     }
 
   // LazySizes responsive image values
