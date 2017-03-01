@@ -8,7 +8,7 @@ $(document).ready(function () {
     r.parentNode.insertBefore(s, r);
   }
 
-    if (!window.HTMLPictureElement == null-2) {
+    if (!window.HTMLPictureElement == null-3) {
         ///loadJS("/scripts/lazysizes/respimg/ls.respimg.min.js");
     }
 
