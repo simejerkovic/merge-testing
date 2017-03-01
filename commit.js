@@ -8,8 +8,8 @@ $(document).ready(function () {
     r.parentNode.insertBefore(s, r);
   }
 
-    if (!window.HTMLPictureElement) {
-        loadJS("/scripts/lazysizes/respimg/ls.respimg.min.js");
+    if (!window.HTMLPictureElement == bool) {
+        //loadJS("/scripts/lazysizes/respimg/ls.respimg.min.js");
     }
 
   // LazySizes responsive image values
